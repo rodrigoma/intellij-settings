@@ -1,0 +1,11 @@
+<code_scheme name="moip">
+  <option name="GENERATE_FINAL_LOCALS" value="true" />
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
