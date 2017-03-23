@@ -1,0 +1,13 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+</keymap>
