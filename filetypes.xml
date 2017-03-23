@@ -2,12 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile-listener" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="EventGenerator" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-batch" type="PLAIN_TEXT" />
+      <mapping pattern="EventGenerator" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping pattern="jenvrc" type="Properties" />
     </extensionMap>
   </component>
