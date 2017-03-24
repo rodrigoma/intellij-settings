@@ -10,7 +10,7 @@
         <option value="teste.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="teste.txt" />
+    <option name="lastOpenedScratch" value="&amp;scratch.txt" />
     <option name="needMigration" value="false" />
   </component>
 </application>
