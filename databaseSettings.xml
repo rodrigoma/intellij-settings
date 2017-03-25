@@ -40,6 +40,24 @@
           </record-format>
         </data>
       </csv-format>
+      <csv-format name="IN CLAUSE">
+        <data>
+          <record-format prefix="" suffix="," nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;">
+            <quotation>
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+      <csv-format name="INSERT VALUES">
+        <data>
+          <record-format prefix="(" suffix=")," nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;">
+            <quotation>
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
     </csv-formats>
   </component>
 </application>
