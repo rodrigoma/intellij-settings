@@ -49,6 +49,15 @@
           </record-format>
         </data>
       </csv-format>
+      <csv-format name="IN CLAUSE_LINE">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator=",">
+            <quotation>
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
       <csv-format name="INSERT VALUES">
         <data>
           <record-format prefix="(" suffix=")," nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;">
