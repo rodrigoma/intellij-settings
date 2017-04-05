@@ -67,6 +67,11 @@
           </record-format>
         </data>
       </csv-format>
+      <csv-format name="IN CLAUSE_LINE_DIG">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="," />
+        </data>
+      </csv-format>
     </csv-formats>
   </component>
 </application>
