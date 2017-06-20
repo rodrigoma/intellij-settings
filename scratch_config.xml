@@ -3,10 +3,9 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="TODOs.txt" />
+        <option value="scratch.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="TODOs.txt" />
-    <option name="needMigration" value="false" />
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
