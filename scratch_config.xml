@@ -4,6 +4,7 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.json" />
+        <option value="TODOs.txt" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
