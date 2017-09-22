@@ -10,15 +10,21 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.x</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.properto</mask>
       <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
