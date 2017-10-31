@@ -14,19 +14,20 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.prop</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>*.properto</mask>
+      <mask>*.xml</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
+      <mask>*.prop</mask>
       <mask>*.prope</mask>
-      <mask>*.properto</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
+      <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
