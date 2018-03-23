@@ -13,12 +13,10 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.properto</mask>
-      <mask>*.xml</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -28,6 +26,9 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
