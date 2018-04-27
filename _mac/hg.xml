@@ -3,7 +3,7 @@
     <option name="myHgExecutable" value="$USER_HOME$/homebrew/bin/hg" />
     <option name="myRememberedUserNames">
       <map>
-        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/engine-dev-svk-pdi-2" value="hugo.silva" />
+        <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/engine-dev-svk-pdi-2" value="rodrigo.amaral" />
         <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/engine-mocks" value="rodrigo.amaral" />
         <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/engine-saopaulo" value="rodrigo.amaral" />
         <entry key="p-ops-vcs.wirecard.sys/scm-webapp/hg/jenkins-dev" value="rodrigo.amaral" />
