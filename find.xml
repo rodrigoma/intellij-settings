@@ -1,34 +1,20 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.properto</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.java</mask>
-      <mask>*.sql</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.sql" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
