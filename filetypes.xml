@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile-listener" type="Dockerfile" />
       <mapping pattern="Dockerfile-api" type="Dockerfile" />
       <mapping pattern="Dockerfile-subs-rabbitmq" type="Dockerfile" />
+      <mapping pattern="Dockerfile-subs-mysql" type="Dockerfile" />
       <mapping pattern="Dockerfile-machine" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
