@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="groovy-2.4.14">
       <CLASSES>
         <root url="jar://$USER_HOME$/homebrew/Cellar/groovy/2.4.14/libexec/lib/ant-1.9.4.jar!/" />
