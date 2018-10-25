@@ -9,6 +9,7 @@
       <mapping pattern="Dockerfile-machine" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="whatever2" type="PLAIN_TEXT" />
+      <mapping pattern="jq" type="PLAIN_TEXT" />
       <mapping pattern="whatever" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
     </extensionMap>
