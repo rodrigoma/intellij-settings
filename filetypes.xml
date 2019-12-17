@@ -7,8 +7,6 @@
       <mapping pattern="Dockerfile-subs-rabbitmq" type="Dockerfile" />
       <mapping pattern="Dockerfile-subs-mysql" type="Dockerfile" />
       <mapping pattern="Dockerfile-machine" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="whatever2" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="jq" type="PLAIN_TEXT" />
