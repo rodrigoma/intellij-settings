@@ -12,6 +12,7 @@
       <mapping pattern="jq" type="PLAIN_TEXT" />
       <mapping pattern="whatever" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
